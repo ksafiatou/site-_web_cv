@@ -1,0 +1,102 @@
+body{
+    background-color: #fff;
+    width: auto;
+
+
+}
+.center1{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 30px:;
+}
+
+.espace{
+    margin-left: 45.5%;
+}
+.espace1{
+    margin-left:35.1% ;
+}
+.espace2{
+    margin-left:28.5% ;
+}
+.espace3{
+    margin-left:42% ;
+}
+.espace4{
+    margin-left:31.1% ;
+}
+.grand{
+    font-size: 25px;
+}
+.espace5{
+    margin-left: 200px;
+}
+.bloc1{
+    margin-left: 100px;
+    
+}
+.bloc2{
+    display: flex;
+
+
+}
+.bloc3{
+    margin-left: 121px;   
+}
+.bloc4{
+    display: flex;
+}
+.bloc5{
+    margin-left: 113px;
+    
+}
+.bloc6{
+    display: flex;
+}
+.bloc7{
+    margin-left: 85px;
+
+}
+
+
+.bloc{
+    display: flex;
+}
+.bloc p {
+    width: 150px;
+}
+.bloc1 p {
+    width: 800px;
+}
+
+
+.pro{
+    position: relative;
+    right: 40px;
+}
+.pro1{
+    position: relative;
+    right: 40px;
+
+}
+.pro2{
+    position: relative;
+    right: 40px;
+
+}
+.ligne{
+    display: flex;
+}
+.space{
+    width: 50%;
+    height: 200px;
+}
+.im{
+    margin-left: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
